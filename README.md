@@ -1,1 +1,15 @@
-## I am a DevSecOps and platform engineer with around seven years of experience helping startups architect, provision, and manage secure, compliant, cost-predictable infrastructure on AWS. I design AWS multi-account foundations (account vending, IAM Identity Center, centralized networking, SCP guardrails) and security controls aligned to the AWS Security Reference Architecture and CIS benchmarks, and I build production-ready Infrastructure-as-Code with OpenTofu / Terraform. I harden EKS with CIS Kubernetes benchmarks, Kyverno policy enforcement, and Istio mTLS, deliver via GitOps with Argo CD + Argo Rollouts, and stand up observability on the LGTM stack with Prometheus, using Go and Python for tooling. I author and maintain an open-source AWS IaC library on GitLab and publish platform-engineering deep-dives on Medium. If you are building on AWS and need infrastructure that is production-ready, not just provisioned, I can help.
+## I am a DevSecOps and Platform Engineer with seven years of experience helping startups architect, provision, and manage secure, compliant, and cost-predictable infrastructure on AWS.
+
+Here’s what I bring to your project:
+ • AWS Multi-account foundation: account vending, IAM Identity Center, centralized networking, and SCP guardrails
+ • Security and compliance controls aligned to AWS Security Reference Architecture and CIS benchmarks for threat prevention, detection, and auto-remediation
+ • Infrastructure-as-Code with OpenTofu/Terraform (modules, CI/CD pipelines, drift detection)
+ • Event-driven systems with Apache Kafka on Kubernetes
+ • EKS hardening: CIS Kubernetes benchmarks, Kyverno policy enforcement, mTLS with Istio
+ • GitOps and progressive delivery with Argo CD + Argo Rollouts
+ • Observability foundation with the LGTM stack + Prometheus
+ • Go & Python for infrastructure tooling and automation
+ 
+I also maintain an open-source AWS IaC library on GitLab (@ace-kloud-native) and publish platform engineering deep-dives on Medium (@ace-kloud-native).
+
+If you're building on AWS and need infrastructure that's production-ready, not just provisioned, let's talk.
